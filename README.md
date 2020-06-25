@@ -12,5 +12,5 @@ Here this calculator can do all task as same as our android's calculator.
 
 
 # Tree 
-So in linux there is no inbuilt function for directory listing their are some python functions made for this like os.walk() from os module but i made this without using any already build function i just made it using system commmand , loop and recursion.
+So in linux there is no inbuilt function for directory listing their are some python functions made for this like os.walk() from os module but i made this without using any already build function i just made it using system command , loop and recursion.
 
