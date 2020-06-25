@@ -5,7 +5,7 @@ def abhi( path , fil  , depth):
       if os.path.isdir(path):
          for obj in os.listdir(path):            
         
-            abhi(path+'/' +obj, obj , depth+1 )
+            abhi(path+'/' +obj, obj , depth+1 )#Recursion
            
         
 
